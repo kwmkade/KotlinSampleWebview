@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/res_round_rect.xml" value="0.3265" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/fragment_webview_dialog.xml" value="0.3098958333333333" />
       </map>
     </option>
   </component>
